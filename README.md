@@ -1,7 +1,7 @@
 Demo LandingPage The Band
 ============================
 Project title: The Band
-> Author: Dinh Hoang Khanh Linh
+<p> Author: Dinh Hoang Khanh Linh </p>
 > eProject documentation at https://github.com/KhanhLinh20/The-Band
 
 ============================
